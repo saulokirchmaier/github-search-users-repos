@@ -1,0 +1,12 @@
+.card {
+  box-shadow: 4px 4px 2px 1px rgba(255, 255, 255, 0.2);
+  border: 1px solid white;
+  border-radius: 5px;
+  font-size: large;
+  padding: 10px;
+}
+
+.card a {
+  text-decoration: none;
+  color: white;
+}

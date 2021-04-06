@@ -1,0 +1,11 @@
+.App {
+  align-items: center;
+  background-color: #282c34;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  min-height: 100vh;
+  padding-top: 20px;
+  text-align: center;
+}
